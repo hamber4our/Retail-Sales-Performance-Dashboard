@@ -6,7 +6,11 @@ This project analyzes retail sales data using Microsoft Excel and presents key b
 
 **Dashboard Preview**
 
-(Add dashboard screenshot here)
+# Retail Sales Performance Dashboard
+
+<p align="center">
+  <img src="Dashboard_Screenshot.jpg" alt="Retail Sales Dashboard" width="1000">
+</p>
 
 **Objectives**
 Clean and prepare retail sales data
